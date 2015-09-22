@@ -1,0 +1,104 @@
+/* CSS Document */
+body {
+ margin-top: 10px;
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 13px;
+ color: #fff;
+ background: #004;
+}
+h1 {
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 20px;
+ color: #fff;
+ font-weight: bold;
+}
+h2 {
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 18px;
+ color: #fff;
+ font-weight: bold;
+ font-style: italic;
+}
+a {
+ color: #fff;
+ text-decoration: underline;
+}
+a:hover {
+ text-decoration: none;
+}
+div#header {
+ margin: 0px;
+ padding: 0px;
+ width: 800px;
+ text-align: center;
+}
+table#topnav {
+ margin: 0px;
+ padding: 0px;
+ width: 800px;
+ height: 61px;
+ text-align: left;
+ background: url(images/topnav-bg.jpg) repeat-x;
+}
+#topnav a {
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 16px;
+ color: #fff;
+ font-weight: bold;
+ text-decoration: none;
+ margin-bottom: 5px;
+}
+#topnav a:hover {
+ color: #ff9;
+}
+table#content {
+ margin: 0px;
+ padding: 0px;
+ width: 800px;
+ text-align: left;
+ background: #003777 url(images/content-bg.jpg) repeat-x;
+}
+td#main-col {
+ margin: 0px;
+ padding: 5px;
+ text-align: left;
+}
+td#right-col {
+ margin: 0px;
+ padding: 5px;
+ width: 250px;
+ text-align: center;
+ border-left: 2px solid #2D588B;
+}
+div.right-col-content {
+ width: 90%;
+ background: #2D588B;
+ padding: 5px;
+}
+table#footer {
+ margin: 0px;
+ padding: 0px;
+ width: 800px;
+ text-align: left;
+ background: #003777 url(images/footer-bg.jpg) top repeat-x;
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 12px;
+ color: #A7CCDF;
+ border-bottom: 18px solid #ccc;
+}
+#footer a {
+ color: #A7CCDF;
+ text-decoration: underline;
+}
+#footer a:hover {
+ text-decoration: none;
+}
+.yellow {
+ color: #ff9;
+}
+.white {
+ color: #fff;
+}
+a.hidden-link {
+ color: #003777;
+}

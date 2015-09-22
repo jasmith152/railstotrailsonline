@@ -1,0 +1,25 @@
+[20-Jul-2013 17:52:02 UTC] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/railstot/public_html/admin/add_item.php on line 127
+[22-Jul-2013 19:06:18 UTC] PHP Warning:  mysql_affected_rows() expects parameter 1 to be resource, string given in /home/railstot/public_html/admin/delete_item.php on line 28
+[23-Jul-2013 19:15:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/railstot/public_html/admin/bike_ride_index.php on line 152
+[23-Jul-2013 19:16:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/railstot/public_html/admin/bike_ride_index.php on line 152
+[23-Jul-2013 19:16:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/railstot/public_html/admin/bike_ride_index.php on line 152
+[23-Jul-2013 19:18:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/railstot/public_html/admin/bike_ride_index.php on line 152
+[14-Aug-2013 14:04:02 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, resource given in /home/railstot/public_html/admin/prize.php on line 84
+[14-Aug-2013 14:09:54 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, resource given in /home/railstot/public_html/admin/prize.php on line 84
+[16-Aug-2013 14:39:58 America/New_York] PHP Warning:  reset() expects parameter 1 to be array, integer given in /home/railstot/public_html/admin/prize_statewide.php on line 51
+[16-Aug-2013 14:39:58 America/New_York] PHP Warning:  end() expects parameter 1 to be array, integer given in /home/railstot/public_html/admin/prize_statewide.php on line 52
+[16-Aug-2013 14:40:42 America/New_York] PHP Warning:  reset() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 51
+[16-Aug-2013 14:40:42 America/New_York] PHP Warning:  end() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 52
+[16-Aug-2013 14:46:13 America/New_York] PHP Warning:  reset() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 51
+[16-Aug-2013 14:46:13 America/New_York] PHP Warning:  end() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 52
+[16-Aug-2013 14:47:45 America/New_York] PHP Warning:  reset() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 51
+[16-Aug-2013 14:47:45 America/New_York] PHP Warning:  end() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 52
+[16-Aug-2013 14:47:51 America/New_York] PHP Warning:  reset() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 51
+[16-Aug-2013 14:47:51 America/New_York] PHP Warning:  end() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 52
+[16-Aug-2013 14:48:38 America/New_York] PHP Warning:  reset() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 51
+[16-Aug-2013 14:48:38 America/New_York] PHP Warning:  end() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 52
+[16-Aug-2013 14:50:51 America/New_York] PHP Warning:  reset() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 51
+[16-Aug-2013 14:50:51 America/New_York] PHP Warning:  end() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 52
+[16-Aug-2013 14:52:39 America/New_York] PHP Warning:  reset() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 51
+[16-Aug-2013 14:52:39 America/New_York] PHP Warning:  end() expects parameter 1 to be array, resource given in /home/railstot/public_html/admin/prize_statewide.php on line 52
+[16-Aug-2013 14:52:39 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/railstot/public_html/admin/prize_statewide.php on line 64
